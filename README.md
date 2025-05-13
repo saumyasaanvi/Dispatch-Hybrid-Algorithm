@@ -1,6 +1,5 @@
 # 🌆 Hybrid Dispatch Algorithm for Smart Cities
-
-This repository is a digital assignment submission for the course **BCSE316L - Design of Smart Cities**. The project consists of a custom **energy distribution algorithm** for a smart city, optimizing energy dispatch based on cost, emissions, and priority-based consumer allocation.
+ The project consists of a custom **energy distribution algorithm** for a smart city, optimizing energy dispatch based on cost, emissions, and priority-based consumer allocation.
 
 ---
 
@@ -114,6 +113,6 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 
 ## 👨‍💻 **Developed By**
-1. Aryan Bhirud  | 22BCE3064
-2. Saumya Saanvi | 22BCE3184
-3. Atulya Sahane | 22BCE2941
+1. Saumya Saanvi 
+2. Aryan Bhirud  
+3. Atulya Sahane 
